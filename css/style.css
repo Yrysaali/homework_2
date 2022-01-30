@@ -1,0 +1,37 @@
+@import "null.css";
+
+.green {
+   color: green;
+}
+.about {
+   color: rgb(67, 141, 146);
+}
+#red {
+   color: red;
+}
+.theme {
+   color: rgb(66, 31, 223);
+}
+.foot {
+   color: rgb(180, 171, 233);
+}
+
+#palitra-one {
+   color: #a36c22;
+}
+#palitra-two {
+   color: #eacc97;
+}
+#palitra-three {
+   color: #dee8ec;
+}
+#palitra-four {
+   color: #93b0d0;
+}
+#palitra-five {
+   color: #6f2205;
+}
+
+.palitra {
+   color: tomato;
+}
